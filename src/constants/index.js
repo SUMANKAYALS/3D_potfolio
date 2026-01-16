@@ -225,7 +225,7 @@ const projects = [
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/SUMANKAYALS/chat-voice-call-app",
     },
     {
         name: "BG Remove",
@@ -246,7 +246,7 @@ const projects = [
             },
         ],
         image: jobit,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/SUMANKAYALS/bg-remove",
     },
     {
         name: "Foodie",
@@ -267,7 +267,7 @@ const projects = [
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/SUMANKAYALS/Foodie",
     },
 ];
 
